@@ -1,0 +1,15 @@
+C:\Users\Larisa\Desktop\Repo_2711\Examples\Exsample002\bin\Debug\net6.0\Exsample002.exe
+C:\Users\Larisa\Desktop\Repo_2711\Examples\Exsample002\bin\Debug\net6.0\Exsample002.deps.json
+C:\Users\Larisa\Desktop\Repo_2711\Examples\Exsample002\bin\Debug\net6.0\Exsample002.runtimeconfig.json
+C:\Users\Larisa\Desktop\Repo_2711\Examples\Exsample002\bin\Debug\net6.0\Exsample002.dll
+C:\Users\Larisa\Desktop\Repo_2711\Examples\Exsample002\bin\Debug\net6.0\Exsample002.pdb
+C:\Users\Larisa\Desktop\Repo_2711\Examples\Exsample002\obj\Debug\net6.0\Exsample002.csproj.AssemblyReference.cache
+C:\Users\Larisa\Desktop\Repo_2711\Examples\Exsample002\obj\Debug\net6.0\Exsample002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larisa\Desktop\Repo_2711\Examples\Exsample002\obj\Debug\net6.0\Exsample002.AssemblyInfoInputs.cache
+C:\Users\Larisa\Desktop\Repo_2711\Examples\Exsample002\obj\Debug\net6.0\Exsample002.AssemblyInfo.cs
+C:\Users\Larisa\Desktop\Repo_2711\Examples\Exsample002\obj\Debug\net6.0\Exsample002.csproj.CoreCompileInputs.cache
+C:\Users\Larisa\Desktop\Repo_2711\Examples\Exsample002\obj\Debug\net6.0\Exsample002.dll
+C:\Users\Larisa\Desktop\Repo_2711\Examples\Exsample002\obj\Debug\net6.0\refint\Exsample002.dll
+C:\Users\Larisa\Desktop\Repo_2711\Examples\Exsample002\obj\Debug\net6.0\Exsample002.pdb
+C:\Users\Larisa\Desktop\Repo_2711\Examples\Exsample002\obj\Debug\net6.0\Exsample002.genruntimeconfig.cache
+C:\Users\Larisa\Desktop\Repo_2711\Examples\Exsample002\obj\Debug\net6.0\ref\Exsample002.dll
